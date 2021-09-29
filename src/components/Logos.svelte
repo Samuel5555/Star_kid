@@ -32,14 +32,7 @@
 
 <div class="logos">
 	<span class="logo keep">
-		<img src="imgs/keep-logo.png" alt="Google Keep" />
+		<img src="imgs/89369003_205336630528736_8506524593842640238_n.jpg" alt="David Ibiyeomie" />
 	</span>
-	<span class="plus">+</span>
-	<span class="logo svelte">
-		<img src="imgs/svelte-logo.png" alt="Svelte" />
-	</span>
-	<span class="plus">+</span>
-	<span class="logo firebase">
-		<img src="imgs/firebase-logo.png" alt="Firebase" />
-	</span>
+	
 </div>
