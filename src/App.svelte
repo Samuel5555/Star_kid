@@ -8,7 +8,7 @@
 	import UpdateModal from "./components/Modal.svelte";
 
 	// Initialising database for realtime update
-	let db = database.collection("test");
+	let db = database.collection("testimonials");
 
 	// List of database Items
 	let dbItems = [];
