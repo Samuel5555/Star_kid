@@ -1,7 +1,7 @@
 <script>
 	import { database } from "../firebase";
 
-	let db = database.collection("test");
+	let db = database.collection("testimonials");
 	let inputVisible = false;
 	let title = "";
 	let content = "";
